@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body{
+    background-color: #AFE9FF;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#taskInput {
+    text-align: center;
+    margin-left: 15px;
+    background-color: #FFCFEA;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.taskItem {
+    margin-bottom: 5px;
+}
+
+.taskItem button {
+    margin-left: 5px;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    background-color: #BFB9FF;
+}
+
+h2{
+    padding: 10px;
+    text-align: center;
+    background-color: #BFB9FF;
+}
+
+.button{
+    background-color: #FFCFEA;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    padding: 10px;
+    margin-left: 450px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
